@@ -1,0 +1,6 @@
+{
+  "name": "EXTRANJERÍA| TRANSPORTES",
+  "description": "Premium legal compliance and international driver mobility portal for corporate fleet owners and logistics managers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
